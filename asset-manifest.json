@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TRVL.git/static/css/main.697e35fc.css",
-    "main.js": "/TRVL.git/static/js/main.f7bac196.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/TRVL.git/static/js/787.c4e7f8f9.chunk.js",
-    "index.html": "/TRVL.git/index.html",
-    "main.697e35fc.css.map": "/TRVL.git/static/css/main.697e35fc.css.map",
-    "main.f7bac196.js.map": "/TRVL.git/static/js/main.f7bac196.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/TRVL.git/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/trvl/static/css/main.697e35fc.css",
+    "main.js": "/trvl/static/js/main.2d980c4c.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/trvl/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/trvl/index.html",
+    "main.697e35fc.css.map": "/trvl/static/css/main.697e35fc.css.map",
+    "main.2d980c4c.js.map": "/trvl/static/js/main.2d980c4c.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/trvl/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.697e35fc.css",
-    "static/js/main.f7bac196.js"
+    "static/js/main.2d980c4c.js"
   ]
 }
